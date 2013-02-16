@@ -1,0 +1,1026 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"sho",
+				"should"
+			],
+			[
+				"submi",
+				"submit"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"sign",
+				"signup_path"
+			],
+			[
+				"grav",
+				"gravatar_url"
+			],
+			[
+				"gra",
+				"gravatar_id"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"foo",
+				"foobar"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"user_",
+				"user_with_same_email"
+			],
+			[
+				"con",
+				"contact_path"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"fotn-s",
+				"font-size"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"pr",
+				"product"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/custom.css.scss",
+			"settings":
+			{
+				"buffer_size": 2294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/_error_messages.html.erb",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/user_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/users_helper.rb",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/locales/en.yml",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/environments/production.rb",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/helpers/users_helper.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/config/routes.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/users/show.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/layouts/application.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/config/environments/test.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/spec/factories.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/Gemfile",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/users/new.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/db/schema.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/models/user.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/spec/helpers/application_helper_spec.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/spec/models/user_spec.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/db/migrate/20130210030409_add_password_digest_to_users.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/db/migrate/20130210025025_add_index_to_users_email.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/controllers/users_controller.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/helpers/application_helper.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/spec/support/utilities.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/README.md",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/public/hello.html",
+		"/Users/beuwria/Work/Learning Codes/Rails/sample_app/.gitignore",
+		"/Users/beuwria/Work/Projects/Current/Winfobox/Website/production/2012/07/1-out-of-10-CPI-rating-makes-Somalia-the-most-corrupt-country.php",
+		"/Users/beuwria/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/beuwria/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/public/422.html",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/line_items/create.js.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/controllers/line_items_controller.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/store/index.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/line_items/_line_items.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/carts/_cart.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/carts/show.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/layouts/application.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/controllers/store_controller.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/models/cart.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/config/routes.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/controllers/application_controller.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/controllers/carts_controller.rb",
+		"/Users/beuwria/Downloads/code/rails32/depot_v/Gemfile",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/models/line_item.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/models/product.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/Rakefile",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/assets/stylesheets/store.css.scss",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/assets/stylesheets/application.css.scss",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/db/migrate/20130208000549_create_products.rb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/products/_form.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/assets/stylesheets/application.css",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/views/products/index.html.erb",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/assets/stylesheets/products.css.scss",
+		"/Users/beuwria/Work/Learning Codes/Rails/depot/app/helpers/application_helper.rb",
+		"/Users/beuwria/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/beuwria/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Password",
+			"name",
+			"full__",
+			"{",
+			"About",
+			"describe",
+			"help",
+			"contact",
+			"help",
+			"'/static_pages/home'",
+			"'/static_pages/help'",
+			":text =>",
+			"contact_path",
+			"white",
+			"lightGray",
+			"999",
+			"Sample",
+			"Home",
+			"Ruby on Rails",
+			"Home",
+			"content",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/users/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/custom.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1453,
+								1453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2094.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/shared/_error_messages.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/users/show.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "app/controllers/users_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "spec/requests/user_pages_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1561,
+								1561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/helpers/users_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "config/locales/en.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "config/environments/production.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "/Users/beuwria/Work/Learning Codes/Rails/sample_app/sample_app.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"modeus",
+				"app/models/user.rb"
+			],
+			[
+				"yml",
+				"config/locales/en.yml"
+			],
+			[
+				"users",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userhe",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"applicaht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"test.r",
+				"config/environments/test.rb"
+			],
+			[
+				"ab",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"spec",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"applicatio",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"migrate",
+				"db/migrate/20130210030409_add_password_digest_to_users.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"migrat",
+				"db/migrate/20130210025025_add_index_to_users_email.rb"
+			],
+			[
+				"specuser",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"modeluse",
+				"app/models/user.rb"
+			],
+			[
+				"specut",
+				"spec/support/utilities.rb"
+			],
+			[
+				"helper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"application_s",
+				"spec/helpers/application_helper_spec.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"statsp",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"users/",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"application.er",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"helph",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"rspec",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"controller",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"views/stat",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"hell",
+				"public/hello.html"
+			],
+			[
+				"view",
+				"app/views/line_items/index.html.erb"
+			],
+			[
+				"storeinde",
+				"app/views/store/index.html.erb"
+			],
+			[
+				"line_item",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"line_items/crea",
+				"app/views/line_items/create.js.erb"
+			],
+			[
+				"_cart",
+				"app/views/carts/_cart.html.erb"
+			],
+			[
+				"line_tecon",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"storecon",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cartshow",
+				"app/views/carts/show.html.erb"
+			],
+			[
+				"show",
+				"app/views/carts/show.html.erb"
+			],
+			[
+				"line_itemscon",
+				"app/controllers/line_items_controller.rb"
+			],
+			[
+				"cartc",
+				"app/controllers/carts_controller.rb"
+			],
+			[
+				"storeht",
+				"app/views/store/index.html.erb"
+			],
+			[
+				"modelpro",
+				"app/models/product.rb"
+			],
+			[
+				"modeline_item",
+				"app/models/line_item.rb"
+			],
+			[
+				"modelscar",
+				"app/models/cart.rb"
+			],
+			[
+				"applicatioco",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicass",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"store.css",
+				"app/assets/stylesheets/store.css.scss"
+			],
+			[
+				"storeco",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"view/store",
+				"app/views/store/index.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"model",
+				"app/models/product.rb"
+			],
+			[
+				"scaffolds",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"productscss",
+				"app/assets/stylesheets/products.css.scss"
+			],
+			[
+				"application",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"productsinde",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"application.ht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"views/_fo",
+				"app/views/products/_form.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
